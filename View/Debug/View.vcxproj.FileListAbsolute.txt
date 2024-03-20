@@ -1,0 +1,46 @@
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\View\Debug\View.vcxprojAssemblyReference.cache
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\View\Debug\View.AgregarInfracion.resources
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\View\Debug\View.LOGIN.resources
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\View\Debug\View.Policias.resources
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\View\Debug\View.vcxproj.GenerateResource.cache
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\View\Debug\View.vcxproj.CopyComplete
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\View\Debug\View.Edition.resources
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\View\Debug\View.Consultas.resources
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\View\Debug\View.ConsultadePersonas.resources
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\View\Debug\View.ConsultadeDistrito.resources
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\View\Debug\View.Mapa.resources
+D:\Bryan Vela\Desktop\PROYECTOCOVID\View\Debug\View.vcxprojAssemblyReference.cache
+D:\Bryan Vela\Desktop\PROYECTOCOVID\View\Debug\View.AgregarInfracion.resources
+D:\Bryan Vela\Desktop\PROYECTOCOVID\View\Debug\View.ConsultadeDistrito.resources
+D:\Bryan Vela\Desktop\PROYECTOCOVID\View\Debug\View.ConsultadePersonas.resources
+D:\Bryan Vela\Desktop\PROYECTOCOVID\View\Debug\View.Consultas.resources
+D:\Bryan Vela\Desktop\PROYECTOCOVID\View\Debug\View.Edition.resources
+D:\Bryan Vela\Desktop\PROYECTOCOVID\View\Debug\View.LOGIN.resources
+D:\Bryan Vela\Desktop\PROYECTOCOVID\View\Debug\View.Mapa.resources
+D:\Bryan Vela\Desktop\PROYECTOCOVID\View\Debug\View.Policias.resources
+D:\Bryan Vela\Desktop\PROYECTOCOVID\View\Debug\View.vcxproj.GenerateResource.cache
+D:\Bryan Vela\Desktop\PROYECTOCOVID\View\Debug\View.vcxproj.CopyComplete
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Debug\View.vcxprojAssemblyReference.cache
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Debug\View.AgregarInfracion.resources
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Debug\View.ConsultadeDistrito.resources
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Debug\View.ConsultadePersonas.resources
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Debug\View.Consultas.resources
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Debug\View.Edition.resources
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Debug\View.LOGIN.resources
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Debug\View.Mapa.resources
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Debug\View.Policias.resources
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Debug\View.SugerenciasCuidado.resources
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Debug\View.vcxproj.GenerateResource.cache
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Debug\View.vcxproj.CopyComplete
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\View\Debug\View.vcxprojAssemblyReference.cache
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\View\Debug\View.AgregarInfracion.resources
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\View\Debug\View.ConsultadeDistrito.resources
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\View\Debug\View.ConsultadePersonas.resources
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\View\Debug\View.Consultas.resources
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\View\Debug\View.Edition.resources
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\View\Debug\View.LOGIN.resources
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\View\Debug\View.Mapa.resources
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\View\Debug\View.Policias.resources
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\View\Debug\View.SugerenciasCuidado.resources
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\View\Debug\View.vcxproj.GenerateResource.cache
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\View\Debug\View.vcxproj.CopyComplete

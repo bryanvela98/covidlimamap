@@ -1,0 +1,18 @@
+﻿  ConsultadePersonas.cpp
+  Consultas.cpp
+  LOGIN.cpp
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\LOGIN.h(25,12): warning C4101: 'app': variable local sin referencia
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\LOGIN.h(24,12): warning C4101: 'N': variable local sin referencia
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\LOGIN.h(27,12): warning C4101: 'dni': variable local sin referencia
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\LOGIN.h(26,12): warning C4101: 'apm': variable local sin referencia
+  Source.cpp
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\LOGIN.h(25,12): warning C4101: 'app': variable local sin referencia
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\LOGIN.h(24,12): warning C4101: 'N': variable local sin referencia
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\LOGIN.h(27,12): warning C4101: 'dni': variable local sin referencia
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\LOGIN.h(26,12): warning C4101: 'apm': variable local sin referencia
+  Generando código...
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Mapa.h(835): warning C4700: se utilizó la variable local 'c' sin inicializar
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Mapa.h(835): warning C4700: se utilizó la variable local 'c' sin inicializar
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\View\Mapa.h(835): warning C4700: se utilizó la variable local 'c' sin inicializar
+  AgregarInfracion.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  View.vcxproj -> D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\Debug\View.exe
