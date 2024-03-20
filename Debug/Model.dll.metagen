@@ -1,0 +1,69 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Model, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Model.Figura: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32, Int32, Int32, Int32, System.Drawing.Color): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 iniciox : Public
+    Int32 inicioy : Public
+    Int32 finx : Public
+    Int32 finy : Public
+    Int32 tipof : Public
+    System.Drawing.Color objcolor : Public
+Class Model.Falta: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+    Void .ctor(Int32, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String Tipo : Public
+Class Model.Infraccion: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, Model.Falta): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Fecha : Public
+    Int32 Codigo : Public
+    System.String Distrito : Public
+    Model.Falta ObjFalta : Public
+Class Model.Distrito: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    CalcularGradodeRiesgo(): PrivateScope, Public, HideBySig
+Class Model.Persona: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Model.Civil: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+  :Model.Persona
+    Void .ctor(System.String, System.String, System.String, System.String, Int32, Model.Infraccion): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String, System.String, System.String, System.String, Int32, Model.Infraccion, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String DNI : Public
+    System.String Nombre : Public
+    System.String ApPaterno : Public
+    System.String ApMaterno : Public
+    Int32 codigoinfraciion : Public
+    Model.Infraccion objInfraccion : Public
+    Int32 cp : Public
+  Methods:
+    Verriesgodistrito(): PrivateScope, Public, HideBySig
+    verRiesgoCivil(): PrivateScope, Public, HideBySig
+    CalcularGradoderiesgo(Int32): PrivateScope, Public, HideBySig
+Class Model.Policia: AutoLayout, AnsiClass, Class, Public, Serializable, BeforeFieldInit
+  :Model.Persona
+    Void .ctor(System.String, Int32, System.String, System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Usuario : Public
+    Int32 Password : Public
+    System.String DistritoVigila : Public
+    System.String DNI : Public
+    System.String Nombre : Public
+    System.String ApPaterno : Public
+    System.String ApMaterno : Public
+    System.Collections.Generic.List`1[Model.Civil] Listaciviles : Public
+  Methods:
+    IngresarInfracionaCivil(): PrivateScope, Public, HideBySig
+    VerRiesgodistrito(): PrivateScope, Public, HideBySig
+    VerRiesgoCivil(): PrivateScope, Public, HideBySig
+    Vernumerodefaltas(): PrivateScope, Public, HideBySig

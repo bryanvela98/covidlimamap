@@ -1,0 +1,8 @@
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\Controller\Debug\Controller.vcxprojAssemblyReference.cache
+C:\Users\g_c_u\Desktop\PROYECTOCOVID\Controller\Debug\Controller.vcxproj.CopyComplete
+D:\Bryan Vela\Desktop\PROYECTOCOVID\Controller\Debug\Controller.vcxprojAssemblyReference.cache
+D:\Bryan Vela\Desktop\PROYECTOCOVID\Controller\Debug\Controller.vcxproj.CopyComplete
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\Controller\Debug\Controller.vcxprojAssemblyReference.cache
+D:\Bryan Vela\Desktop\Proyecto Covid Grupo10\Controller\Debug\Controller.vcxproj.CopyComplete
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\Controller\Debug\Controller.vcxprojAssemblyReference.cache
+C:\Users\g_c_u\Desktop\Proyecto Covid Grupo10\Controller\Debug\Controller.vcxproj.CopyComplete

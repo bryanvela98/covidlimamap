@@ -1,0 +1,74 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Controller, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Model, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Controller.GestorCivil: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Collections.Generic.List`1[Model.Civil] ListaBuscada : Public
+  Methods:
+    LeerCivilesdesdetxt(): PrivateScope, Public, HideBySig
+    obtenercantidaddeCiviles(): PrivateScope, Public, HideBySig
+    obteneruncivil(Int32): PrivateScope, Public, HideBySig
+    BuscacivilxDNI(String): PrivateScope, Public, HideBySig
+    agregarcivil(Civil): PrivateScope, Public, HideBySig
+    quitarcivil(Int32): PrivateScope, Public, HideBySig
+    Buscacivilxcodigoinfraccion(Int32): PrivateScope, Public, HideBySig
+    Escribirenciviles(): PrivateScope, Public, HideBySig
+    BuscacivilxNombre(String): PrivateScope, Public, HideBySig
+    BuscacivilxApellidomatero(String): PrivateScope, Public, HideBySig
+    BuscacivilxApelidopaterno(String): PrivateScope, Public, HideBySig
+    Buscacivilxnombreyapelldiomaterno(String, String): PrivateScope, Public, HideBySig
+    Buscacivilxnombreyapelldiopaterno(String, String): PrivateScope, Public, HideBySig
+    Buscacivilxnombreyapelldiomaternoypaterno(String, String, String): PrivateScope, Public, HideBySig
+    Buscacivilxnombreyapelldiomaternoypaternoydni(String, String, String, String): PrivateScope, Public, HideBySig
+    serializar(): PrivateScope, Public, HideBySig
+    deserializar(): PrivateScope, Public, HideBySig
+Class Controller.GestorInfraccion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Collections.Generic.List`1[Model.Infraccion] ListaBuscada2 : Public
+  Methods:
+    LeerInfracciondesdetxt(): PrivateScope, Public, HideBySig
+    obtenercantidaddeInfracciones(): PrivateScope, Public, HideBySig
+    obtenerunainfraccion(Int32): PrivateScope, Public, HideBySig
+    Obtenerinfraccionxcodigo(Int32): PrivateScope, Public, HideBySig
+    addinfraccion(Infraccion): PrivateScope, Public, HideBySig
+    EscribirInfraccion(): PrivateScope, Public, HideBySig
+    BuscarinfraccionesxDistrito(String): PrivateScope, Public, HideBySig
+    Codigomasalto(): PrivateScope, Public, HideBySig
+    quitarinfraccion(Int32): PrivateScope, Public, HideBySig
+    serializar(): PrivateScope, Public, HideBySig
+    deserializar(): PrivateScope, Public, HideBySig
+    catiBuscarinfraccionesxDistrito(String): PrivateScope, Public, HideBySig
+    Elegircolor(Int32): PrivateScope, Public, HideBySig
+Class Controller.GestorDistrito: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Controller.GestorFalta: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    LeerFaltadesdetxt(): PrivateScope, Public, HideBySig
+    obtenercantidaddefalta(): PrivateScope, Public, HideBySig
+    obtenerunfalta(Int32): PrivateScope, Public, HideBySig
+    obtenerfaltaxcodigo(Int32): PrivateScope, Public, HideBySig
+    addfalta(Falta): PrivateScope, Public, HideBySig
+    obtenerfaltaxtipo(String): PrivateScope, Public, HideBySig
+Class Controller.GestorFigura: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Controller.GestorPersona: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Controller.GestorPolicia: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Collections.Generic.List`1[Model.Civil] ListaBuscada3 : Public
+  Methods:
+    Leerpoliciasdesdetxt(): PrivateScope, Public, HideBySig
+    obtenercantidaddePolis(): PrivateScope, Public, HideBySig
+    obtenerunpoli(Int32): PrivateScope, Public, HideBySig
