@@ -1,0 +1,4 @@
+1;No Mascarilla
+2;Fuera de toque de queda
+3;Violencia
+4;Fiesta COVID

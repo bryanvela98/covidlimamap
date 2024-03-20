@@ -1,0 +1,5 @@
+Poli1;123;12345678;Luis;Montoya;Sara;Miraflores
+Poli2;234;12345678;Pedro;Navaja;Lupe;San Miguel
+Poli3;345;12646678;Pedro;Navaja;Lupe;San Martin de Porres
+Poli4;678;12646678;Juanito;Alimaña;Lupe;Miraflores
+a;1;12646678;Juanito;Alimaña;Lupe;Miraflores
